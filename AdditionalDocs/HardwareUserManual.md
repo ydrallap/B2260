@@ -1,4 +1,4 @@
-# Board-X Development Board Hardware User Manual
+# B2260 Development Board Hardware User Manual
 
 ### Table of Contents
 - [Table of Contents](#table-of-contents)
