@@ -1,6 +1,6 @@
 ## Downloads
 
-The Board X comes pre-installed with Android. If you would like to switch the Operating System, update the existing software images on your board, or unbrick your board, this page provides links to the latest software downloads.
+The BB2260 comes pre-installed with Android. If you would like to switch the Operating System, update the existing software images on your board, or unbrick your board, this page provides links to the latest software downloads.
 
 ***
 
@@ -12,7 +12,9 @@ The Board X comes pre-installed with Android. If you would like to switch the Op
 
 ### Third Party Operating Systems
 
-Other operating systems supported on Board X, offered by partners.
+< These are examples - If there are any third party images available for the BB2260, please add them and include the third party link >
+
+Other operating systems supported on BB2260, offered by partners.
 
 - [Android](AOSP.md)
 

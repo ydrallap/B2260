@@ -1,7 +1,7 @@
 ## Configuration
 
-Execute unique configuraions to customize your Board-X experience
+Execute unique configuraions to customize your BB2260 experience
 
 ## Helpful Configurations
 
-< Insert custom Board-X specific configurations here >
+< Insert custom BB2260 specific configurations here >

@@ -1,5 +1,6 @@
 # Hardware Notes
 
+< All hardware notes in are examples from other 96Boards, please use this as a template >
 
 ### CPU Load
  
@@ -39,6 +40,8 @@ Board X supports a UART Port used for debugging, the Baud Rate for this interfac
 
 ## Known Issues 
 
+< Include all known issues for the BB2260, this section should be monitored and updated when new issues pop up, or old issues are fixed >
+
 The following are known issues on the current release.
 
 1. **Not Yet Supported**
@@ -55,7 +58,9 @@ HDMI display sometimes goes off when in AOSP.
 
 ## Report a Bug
 
-To report new issues with the Helio please use the [96Boards Bug Tracker](https://bugs.96boards.org).
+< This section can remain untouched >
+
+To report new issues with the BB2260 please use the [96Boards Bug Tracker](https://bugs.96boards.org).
 
 To view the open bugs, click [here](https://bugs.96boards.org/buglist.cgi?bug_status=__open__&list_id=144&order=Importance&product=HiKey&query_format=specific).  Alternatively go to the [site](https://bugs.96boards.org/), click on the Search menu item, select HiKey in the product dropdown list and click the search button.
 
