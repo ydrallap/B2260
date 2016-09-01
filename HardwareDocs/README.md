@@ -1,6 +1,6 @@
 # Hardware Documentation
 
-Explore what makes your BB2269 unique, technical specifications, schematics, hardware notes and more... This page allows you to see what is under the "BB2260 hood" by offering static documentation published directly from the board vendors.
+Explore what makes your BB2260 unique, technical specifications, schematics, hardware notes and more... This page allows you to see what is under the "BB2260 hood" by offering static documentation published directly from the board vendors.
 
 ## Hardware
 
