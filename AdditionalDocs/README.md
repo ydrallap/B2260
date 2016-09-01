@@ -4,4 +4,4 @@ Discover our list of community and vendor sponsored BB2260 documents. This page 
 
 ## User Guides
 
-- Hardware User Manual ([View]() / [Download]())
+- User Manual ([View](HardwareUserManual.md))
