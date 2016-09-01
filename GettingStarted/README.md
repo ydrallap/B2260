@@ -33,6 +33,8 @@ Learn about your B2260 board as well as how to prepare and set up for basic use
 
 The following subsections should describe how to get started with the B2260 using the release build shipped with the boards. The B2260 board is ready to use “out of the box” with a preinstalled version of the Debian Linux distribution.
 
+< Please send all HD board images to robert.wolff@linaro.org to have these replaced >
+
 <img src="http://i.imgur.com/uKfxuu5.jpg" data-canonical-src="http://i.imgur.com/uKfxuu5.jpg" width="250" height="160" />
 <img src="http://i.imgur.com/g5X5j72.jpg" data-canonical-src="http://i.imgur.com/g5X5j72.jpg" width="250" height="160" />
 <img src="http://i.imgur.com/egwXwjX.jpg" data-canonical-src="http://i.imgur.com/egwXwjX.jpg" width="250" height="160" />
@@ -63,7 +65,7 @@ The following subsections should describe how to get started with the B2260 usin
 
 **IMPORTANT NOTES**
 
-<Insert B2260 Important notes - Example Below>
+< Insert Board-X Important notes - Example Below - This section should be monitored by board maintainers. This information should be periodically updated. Please treat this section as a "News" section. Important notes should consist of thing you think end user MUST KNOW to minimize unnecessary support questions surrounding the out of box experience with shipped stock image >
 
 - HDMI EDID display data is used to determine the best display resolution. On monitors and TVs that support 1080p (or 1200p) this resolution will be selected. If 1080p is not supported the next available resolution reported by EDID will be used. This selected mode will work with **MOST but not all** monitors/TVs. 
 - There are limitations on the usage of the USB ports on the B2260 board.
@@ -86,6 +88,8 @@ The following subsections should describe how to get started with the B2260 usin
 ***
 
 ## Updating to a new release or change your operating system
+
+<Do not touch this section>
 
 If you are already familiar with the B2260 board and would like to change out the stock operating system, please proceed to one of the following pages:
 
